@@ -1,6 +1,8 @@
 # Preparation
 
-1. ​[Github Repo (INFRA-MANIFEST)](https://github.com/ridwands/INFRA-MANIFEST)​
+
+
+1. ​Github Repo​
 
 folder github has approximately like below.&#x20;
 
